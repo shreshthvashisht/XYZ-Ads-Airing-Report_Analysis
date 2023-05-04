@@ -10,3 +10,5 @@
 5.	Other than above we were asked to provide for any other insights.
 
 # [Link to Loom Video Explanation by the Author](https://www.loom.com/share/0a2d159ff18f4f6b988f40cdc3d37176)
+
+## As the Excel File is larger than 25MB, it can't be uploaded. [here is the drive link to it](https://docs.google.com/spreadsheets/d/1EXdyhRoFmOcwsu24M6GmJZ_xevO4Alhp/edit?usp=share_link&ouid=109356424617551323871&rtpof=true&sd=true)
